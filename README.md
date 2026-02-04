@@ -1,8 +1,6 @@
 #  D3D11_Biohazard_Re-2 (Team Portfolio)
 
-### 0. 프로젝트 영상
-[![동영상 타이틀]([http://img.youtube.com/vi/유튜브비디오ID/0.jpg](https://youtu.be/A86mi0EwGC4?si=A9rnKjvA1Ax08rSb))](https://www.youtube.com/watch?v=유튜브비디오ID)
-
+[![프로젝트 영상](https://youtu.be/A86mi0EwGC4?si=S9_p7A6kvX1Aa3m4.jpg)](https://youtu.be/A86mi0EwGC4?si=S9_p7A6kvX1Aa3m4)
 
 ### 1. 역할 분담
 ---
@@ -22,7 +20,9 @@
 - DirectX11
 - C++, HLSL
 
-## 4. 기타
+## 5. 구현 내용
+
+## 6. 기타
 ```bash
 # 1. T,Y, U, I ,O 키를 이용해서 컷신을 적절한 타이밍에 재생해야함
 # 2. ..\Framework\Client\Bin\Resources\Models\Map\Location\Merged\Merge_Policefbx.ip 을 압축해제해야 합니다
