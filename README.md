@@ -1,4 +1,9 @@
 #  D3D11_Biohazard_Re-2 (Team Portfolio)
+
+### 0. 프로젝트 영상
+[![동영상 타이틀]([http://img.youtube.com/vi/유튜브비디오ID/0.jpg](https://youtu.be/A86mi0EwGC4?si=A9rnKjvA1Ax08rSb))](https://www.youtube.com/watch?v=유튜브비디오ID)
+
+
 ### 1. 역할 분담
 ---
 * **이정현** : 프레임워크, 충돌, 이펙트
