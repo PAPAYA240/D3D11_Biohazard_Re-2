@@ -1,6 +1,6 @@
 #  D3D11_Biohazard_Re-2 (Team Portfolio)
 
-[![프로젝트 영상](https://youtu.be/A86mi0EwGC4?si=S9_p7A6kvX1Aa3m4.jpg)](https://youtu.be/A86mi0EwGC4?si=S9_p7A6kvX1Aa3m4)
+[![프로젝트 영상](https://img.youtube.com/vi/A86mi0EwGC4/0.jpg)](https://www.youtube.com/watch?v=A86mi0EwGC4)
 
 ### 1. 역할 분담
 ---
