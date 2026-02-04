@@ -1,4 +1,4 @@
-# 🧟 D3D11_Biohazard_Re-2 (Team Portfolio)
+# 🧟 D3D11_Biohazard_Re-2
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=A86mi0EwGC4">
