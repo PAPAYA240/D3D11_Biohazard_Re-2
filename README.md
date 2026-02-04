@@ -1,6 +1,7 @@
 #  D3D11_Biohazard_Re-2 (Team Portfolio)
 
 [![프로젝트 영상](https://img.youtube.com/vi/A86mi0EwGC4/0.jpg)](https://www.youtube.com/watch?v=A86mi0EwGC4)
+# (⬆ Click!) https://www.youtube.com/watch?v=A86mi0EwGC4
 
 ### 1. 역할 분담
 ---
@@ -13,17 +14,20 @@
 
 ## 2. 프로젝트 정보
 - **개발 기간:** 2024.05.16 ~ 2024.06.26
-- **프로젝트 개요:** 무엇을 하는 프로젝트인지, 왜 만들었는지 기술 [2].
-- **주요 기능:** 핵심 기능 3~5가지 요약 [10].
+- **프로젝트 개요:** DirectX 11의 기초를 다지고, 게임 시스템(카메라, AI, 물리)를 심도 있게 분석하여 실제 코드로 구현하는 능력을 기르기 위해 진행했습니다.
+
 
 ## 3. 개발 언어
 - DirectX11
 - C++, HLSL
 
 ## 5. 구현 내용
+** UI
 
-## 6. 기타
-```bash
-# 1. T,Y, U, I ,O 키를 이용해서 컷신을 적절한 타이밍에 재생해야함
-# 2. ..\Framework\Client\Bin\Resources\Models\Map\Location\Merged\Merge_Policefbx.ip 을 압축해제해야 합니다
-# 3. ..\Framework\Client\Bin\Resources\Textures\SkyBox\Sky_3.zip도 압축해제하면 더 좋습니다
+** 미니맵
+
+** 퍼즐
+
+
+
+
