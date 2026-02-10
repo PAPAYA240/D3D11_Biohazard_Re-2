@@ -44,12 +44,12 @@
 > **플레이어 인터렉션 오브젝트와 관련된 UI, 퍼즐 콘텐츠를 전담했으며, 프로젝트 시작 전에는 팀 협업 효율을 위한 UI/Effect Tool을 구현했습니다.** <br>
 
 ### 1. 렌더링 최적화 
-- **Dynamic Object Culling**: 공간 분할 및 내적(Dot Product)을 활용한 렌더링 선별 (30FPS -> 60FPS)
+- **Dynamic Object Culling**: 공간 분할 및 내적을 활용한 렌더링 선별 (30FPS -> 60FPS)
 - **Mesh Instancing**: 동일 객체 다수 렌더링 시 드로우 콜 최적화
 
 ### 2. 엔진 아키텍처 
 - **Component System**: 상속 구조의 한계를 극복하기 위한 컴포넌트 기반 설계 (Unity 방식 채택)
-- **Prototype Pattern**: 객체 생성 비용 절감을 위한 원본 복제(Clone) 시스템 구현
+- **Prototype Pattern**: 객체 생성 비용 절감을 위한 원본 Clone 시스템 구현
 
 ### 3. 자체 제작 툴 
 - **ImGui Editor**: 런타임 중 라이팅, UI, Effect 애니메이션 속성을 제어하는 타임라인 에디터 구현
